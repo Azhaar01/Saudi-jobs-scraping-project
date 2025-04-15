@@ -24,4 +24,4 @@ This project scrapes job listings from Wuzzuf for positions in Saudi Arabia. It 
 ## 📂 Files Included
 
 - `Web_Scraping_Jobs_Project.ipynb` – the web scraping and cleaning script.
-- `https://github.com/Azhaar01/Saudi-jobs-scraping-project/blob/main/Dataset_Cleaned.csv` – the cleaned dataset.
+- `Dataset_Cleaned.csv` – the cleaned dataset.
