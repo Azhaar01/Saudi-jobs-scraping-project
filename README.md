@@ -15,7 +15,7 @@ This project scrapes job listings from Wuzzuf for positions in Saudi Arabia. It 
   - Standardizing text format.
   - Checked for null values and handled duplicates.
 
-## 🧪 Technologies Used
+## 💻 Technologies Used
 
 - Python
 - BeautifulSoup
